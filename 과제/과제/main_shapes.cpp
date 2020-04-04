@@ -5,7 +5,7 @@ using namespace Graph_lib;
 
 int main()
 {
-	Point tl(100, 200);
+	Point tl(150, 200);
 	Simple_window win(tl, 800, 800, "Box");
 
 
